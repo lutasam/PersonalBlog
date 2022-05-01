@@ -1,2 +1,2 @@
 # PersonalBlog
-an easy try to implement a PERSONAL BLOG, which can contain something about me...
+an easy try to implement a PERSONAL BLOG by SPRINGBOOT
